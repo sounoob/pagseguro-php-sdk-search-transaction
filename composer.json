@@ -20,7 +20,7 @@
 	},
 	"support": {
 		"email": "OpenSource@sounoob.com.br",
-		"issues": "https://github.com/sounoob/pagseguro-php-sdk/issues",
-		"source": "https://github.com/sounoob/pagseguro-php-sdk"
+		"issues": "https://github.com/sounoob/pagseguro-php-sdk-search-transaction/issues",
+		"source": "https://github.com/sounoob/pagseguro-php-sdk-search-transaction"
     }
 }

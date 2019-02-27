@@ -7,7 +7,7 @@
 		}
 	],
 	"require" : {
-		"sounoob/pagseguro-php-sdk-core" : "*"
+		"sounoob/pagseguro-php-sdk-core" : "1.*"
 	},
 	"require-dev" : {
 		"phpunit/phpunit" : "4.8.*"
